@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\CollectionsFrameWork\CollectionsFrameWork\bin\Debug\net8.0\CollectionsFrameWork.exe
+C:\Users\Admin\source\repos\CollectionsFrameWork\CollectionsFrameWork\bin\Debug\net8.0\CollectionsFrameWork.deps.json
+C:\Users\Admin\source\repos\CollectionsFrameWork\CollectionsFrameWork\bin\Debug\net8.0\CollectionsFrameWork.runtimeconfig.json
+C:\Users\Admin\source\repos\CollectionsFrameWork\CollectionsFrameWork\bin\Debug\net8.0\CollectionsFrameWork.dll
+C:\Users\Admin\source\repos\CollectionsFrameWork\CollectionsFrameWork\bin\Debug\net8.0\CollectionsFrameWork.pdb
+C:\Users\Admin\source\repos\CollectionsFrameWork\CollectionsFrameWork\obj\Debug\net8.0\CollectionsFrameWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\CollectionsFrameWork\CollectionsFrameWork\obj\Debug\net8.0\CollectionsFrameWork.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\CollectionsFrameWork\CollectionsFrameWork\obj\Debug\net8.0\CollectionsFrameWork.AssemblyInfo.cs
+C:\Users\Admin\source\repos\CollectionsFrameWork\CollectionsFrameWork\obj\Debug\net8.0\CollectionsFrameWork.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CollectionsFrameWork\CollectionsFrameWork\obj\Debug\net8.0\CollectionsFrameWork.dll
+C:\Users\Admin\source\repos\CollectionsFrameWork\CollectionsFrameWork\obj\Debug\net8.0\refint\CollectionsFrameWork.dll
+C:\Users\Admin\source\repos\CollectionsFrameWork\CollectionsFrameWork\obj\Debug\net8.0\CollectionsFrameWork.pdb
+C:\Users\Admin\source\repos\CollectionsFrameWork\CollectionsFrameWork\obj\Debug\net8.0\CollectionsFrameWork.genruntimeconfig.cache
+C:\Users\Admin\source\repos\CollectionsFrameWork\CollectionsFrameWork\obj\Debug\net8.0\ref\CollectionsFrameWork.dll
